@@ -29,7 +29,7 @@ const Status = ({ winner, current }) => {
         <>
           <span className='text-green'>X </span>
           and
-          <span className='text-orange'> O</span> tied
+          <span className='text-orange'> O</span> are tied
         </>
       )}
     </div>
